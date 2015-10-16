@@ -4,6 +4,8 @@ Yet Another Time Tracking Tool.
 At the moment this project is a simple skeleton generated with [yo angular generator](https://github.com/yeoman/generator-angular)
 version 0.12.1.
 
+Integrated Travis CI.
+
 ## Build & development
 
 Run `grunt` for building and `grunt serve` for preview.
