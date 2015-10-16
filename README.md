@@ -1,6 +1,7 @@
 # yatt
+Yet Another Time Tracking Tool.
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
+At the moment this project is a simple skeleton generated with [yo angular generator](https://github.com/yeoman/generator-angular)
 version 0.12.1.
 
 ## Build & development
