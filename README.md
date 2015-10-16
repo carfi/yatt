@@ -1,4 +1,4 @@
-# yatt
+# yatt https://travis-ci.org/carfi/yatt.svg?branch=master
 Yet Another Time Tracking Tool.
 
 At the moment this project is a simple skeleton generated with [yo angular generator](https://github.com/yeoman/generator-angular)
