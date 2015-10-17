@@ -2,7 +2,7 @@
   "name": "yatt",
   "private": true,
   "version": "0.0.1",
-  "description": "Yet Another Time Tracking Web App",
+  "description": "Yet Another Time Tracking WebApp",
   "author": "Davide Carfi <davide@carfi.org>",
   "devDependencies": {
     "grunt": "^0.4.5",
