@@ -1,0 +1,8 @@
+.DS_Store
+.travis.yml
+.dockerignore
+.git
+.gitignore
+.gitattributes
+.sass-cache
+.tmp
