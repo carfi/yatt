@@ -6,7 +6,7 @@ WORKDIR /home/yatt
 
 COPY . /home/yatt
 
-RUN npm install -g grunt-cli bower \
+RUN npm install -g grunt grunt-cli bower \
     && apt-get -y update \
     && apt-get -y install ruby-compass rubygems \
     && gem update --system \
