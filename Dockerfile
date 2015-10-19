@@ -12,7 +12,7 @@ COPY . /home/yatt
 #    && gem update --system \
 #    && gem install compass \
 #    && grunt
-RUN grunt --gruntfile /home/yatt/Gruntfile.js
+RUN cd /home/yatt && grunt
 
 EXPOSE 9000
 
