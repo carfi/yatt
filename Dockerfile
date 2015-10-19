@@ -6,7 +6,9 @@ WORKDIR /home/yatt
 
 COPY . /home/yatt
 
-RUN npm install && grunt
+RUN npm install \
+    && bower install --config.interactive=false --allow-root \
+    && grunt
 
 EXPOSE 9000
 
